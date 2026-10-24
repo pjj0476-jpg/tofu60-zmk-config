@@ -67,7 +67,7 @@
         { "label": "Space",  "row": 4, "col": 4, "x": 4,    "y": 4, "w": 7 },
         { "label": "RAlt",   "row": 4, "col": 5, "x": 11,   "y": 4, "w": 1.5 },
         { "label": "RCtrl",  "row": 4, "col": 7, "x": 12.5, "y": 4, "w": 1 },
-        { "label": "RCtrl", "row": 4, "col": 8, "x": 13.5, "y": 4, "w": 1.5 }
+        { "label": "RCtrl",  "row": 4, "col": 8, "x": 13.5, "y": 4, "w": 1.5 }
       ]
     }
   }
